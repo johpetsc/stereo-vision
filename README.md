@@ -31,7 +31,7 @@ Object tracking:
 ```
     $ python src/stereo-vision.py --r4
 ```
-1. Select an object to be tracked in both camera 1 and then press ENTER
-2. Select an object to be tracked in both camera 2 and then press ENTER
+1. Select an object to be tracked in camera 1 and then press ENTER
+2. Select an object to be tracked in camera 2 and then press ENTER
 3. Press Q and then hold W to track the object (release W to pause)
 4. Press Q twice to exit before the video finishes
